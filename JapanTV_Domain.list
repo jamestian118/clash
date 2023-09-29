@@ -1,5 +1,5 @@
 payload:    
-        # NAME: AbemaTV'
+        # NAME: AbemaTV
   - '+.abema-tv.com'
   - '+.abema.io'
   - '+.abema.tv'
@@ -24,7 +24,7 @@ payload:
   - '+.winticket.jp'
 
 
-        # NAME: Niconico'
+        # NAME: Niconico
   - '+.dmc.nico'
   - '+.nicodic.jp'
   - '+.nicomanga.jp'
@@ -35,7 +35,7 @@ payload:
   - '+.simg.jp'
   - '+.socdm.com'
 
-        # NAME: DMM'
+        # NAME: DMM
   - '+.akabeesoft2.com'
   - '+.akabeesoft3.com'
   - '+.akatsukiworks.com'
