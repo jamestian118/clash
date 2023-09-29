@@ -1,5 +1,4 @@
 payload:    
-        # NAME: AbemaTV
   - '+.abema-tv.com'
   - '+.abema.io'
   - '+.abema.tv'
